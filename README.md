@@ -15,7 +15,7 @@ The original scores by district were:
 
 while the revised scores by district were:
 
-![image-name](Resources/Rev_Dist.png)
+![image-name](Resources/Rev_Dist.PNG)
 
 The removal of the THS students seemed to have a minimal effect on the average test scores and the overall percentage of passing students.
 
@@ -23,11 +23,11 @@ The removal of the THS students seemed to have a minimal effect on the average t
 
 The original score by school were:
 
-![image-name](Resources/Orig_Schoo.png)
+![image-name](Resources/Orig_Schoo_sum.PNG)
 
 while the revised were:
 
-![image-name](Resources/Rev_School.png)
+![image-name](Resources/Rev_School.PNG)
 
 While the overall scores for the district were not significantly effected, there was a large drop in the number of students passing math, reading, and overall in THS.
 The overall average scores for both tests did not change by much, however, which seems to indicate that there is a large group of underperfoming students at THS.
@@ -36,11 +36,11 @@ The overall average scores for both tests did not change by much, however, which
 
 In reviewing the original scores by spend:
 
-![image-name](Resources/Orig_Spend.png)
+![image-name](Resources/Orig_Spend.PNG)
 
 and the scores by spend for the revised data:
 
-![image-name](Resources/Rev_Spend.png)
+![image-name](Resources/Rev_Spend.PNG)
 
 there are no significant changes in the data.
 
