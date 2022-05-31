@@ -11,5 +11,6 @@ the 9th grade scores from Thomas High School, as this was the source of the susp
 ### Scores by District
 The original scores by district were: 
 
-![image-name](Original District Summary.JPG) 
+![image-name](Original_Dist_Sum.PNG)
+
 
