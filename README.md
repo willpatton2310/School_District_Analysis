@@ -11,7 +11,7 @@ the 9th grade scores from Thomas High School (THS), as this was the source of th
 ### Scores by District
 The original scores by district were: 
 
-![image-name](Original_Dist_Sum.PNG)
+![image-name](Resources/Original_Dist_Sum.PNG)
 
 while the revised scores by district were:
 
